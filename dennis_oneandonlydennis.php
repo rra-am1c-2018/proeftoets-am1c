@@ -14,7 +14,7 @@
           <thead>
               <tr>
                   <th>Voornaam</th>
-                  <th></th>
+                  <th>Tussenvoegsel</th>
                   <th></th>
                   <th></th>
                   <th></th>
