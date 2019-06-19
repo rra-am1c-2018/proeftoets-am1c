@@ -19,7 +19,7 @@
                     <th scope="col">#</th>
                     <th scope="col">Voornaam</th>
                     <th scope="col">Tussenvoegsel</th>
-                    <th scope="col">Handle</th>
+                    <th scope="col">Achternaam</th>
                 </tr>
              </thead>
         <tbody>
@@ -27,7 +27,7 @@
             <th scope="row">1</th>
                 <td>Jens</td>
                 <td>-</td>
-                <td>@mdo</td>
+                <td>Reimer</td>
 
   </tbody>
 </table>
