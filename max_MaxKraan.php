@@ -35,7 +35,7 @@
       <td></td>
       <td>Kraan</td>
       <td>Gamen</td>
-      <td><img src="./nibba's/maxkraan.jpg" style="width: 200px; height: 200px;"></td>
+      <td><img src="./nibba's/maxkraan.jpg" style="width: 100px; height: 100px;"></td>
     </tr>
     <tr>
   </tbody>
