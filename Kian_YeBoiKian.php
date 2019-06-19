@@ -25,7 +25,7 @@
     <tr>
       <th scope="row">Kian</th>
       <td>Kian</td>
-      <td></td>
+      <td>.</td>
       <td>Ceelie</td>
       <td>Hardlopen</td>
       <td><img src="./girlfriend.jpg" style="width: 20px; height: 20px;"></td>
