@@ -26,4 +26,9 @@
 <a href="dennis_oneandonlydennis.php">Klik hier om naar Dennis z'n pagina te gaan! </a>
 
 <a href="kian_YeBoiKian.php">Klik hier om naar kians z'n pagina te gaan! (ik heb definitief deze code niet van dennis gejat) </a>
+<<<<<<< HEAD
 <a href="rijn_yeet.php">Klik hier om naar rijns z'n pagina te gaan! (ik heb definitief deze code niet van dennis gejat) </a>
+=======
+
+<a href="Nick_DankassGamer69.php">Klik hier om naar Nick z'n pagina te gaan! (ik heb definitief deze code niet van dennis of kian gejat) </a>
+>>>>>>> ea327e52d16592a19afa196dd4147d9999cb8ccd

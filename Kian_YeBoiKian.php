@@ -13,23 +13,24 @@
  
   <table class="table">
   <thead>
-    <tr>
-      <th scope="col">VN</th>
-      <th scope="col">TV</th>
-      <th scope="col">AN</th>
-      <th scope="col">Hobby</th>
-      <th scope="col">Avatar</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th scope="row">Kian</th>
-      <td>Kian</td>
-      <td></td>
-      <td>Ceelie</td>
-      <td>Hardlopen</td>
-      <td><img src="./girlfriend.jpg" style="width: 20px; height: 20px;"></td>
-    </tr>
+  <tr>
+                  <th>Voornaam</th>
+                  <th>Tussenvoegsel</th>
+                  <th>Achternaam</th>
+                  <th>Hobby</th>
+                  <th>Avatar</th>
+                  <th></th>
+              </tr>
+          </thead>
+          <tbody>
+              <tr>
+                  <td scope="row">Kian</td>
+                  <td></td>
+                  <td>Ceelie</td>
+                  <td>Hardlopen</td>
+                  <td><img src="./yarr.gif" style="width: 20px; height: 20px;"></td>
+                  <td></td>
+              </tr>
   </tbody>
 </table>
 
