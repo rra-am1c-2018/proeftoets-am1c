@@ -25,7 +25,7 @@
       <th scope="col">VN</th>
       <th scope="col">TV</th>
       <th scope="col">AN</th>
-      <th scope="col">Handle</th>
+      <th scope="col">Hobby</th>
     </tr>
   </thead>
   <tbody>
@@ -33,7 +33,7 @@
       <td>Max</td>
       <td></td>
       <td>Kraan</td>
-      <td>@mdo</td>
+      <td>Gamen</td>
     </tr>
     <tr>
       <th scope="row">2</th>
