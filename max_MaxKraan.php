@@ -26,6 +26,7 @@
       <th scope="col">TV</th>
       <th scope="col">AN</th>
       <th scope="col">Hobby</th>
+      <th scope="col">Avatar</th>
     </tr>
   </thead>
   <tbody>
@@ -34,6 +35,7 @@
       <td></td>
       <td>Kraan</td>
       <td>Gamen</td>
+      <td><img src="./nibba/maxkraan.jpg"></td>
     </tr>
     <tr>
       <th scope="row">2</th>
