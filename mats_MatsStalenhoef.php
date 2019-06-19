@@ -13,7 +13,7 @@
       <th scope="row">Mats</th>
       <td></td>
       <td>Stalenhoef</td>
-      <td></td>
+      <td>Gaming</td>
       <td></td>
     </tr>
   </tbody>

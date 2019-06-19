@@ -23,11 +23,11 @@
   </thead>
   <tbody>
     <tr>
-      <th scope="row">1</th>
+      <th scope="row">Kian</th>
       <td>Kian</td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>Ceelie</td>
+      <td>Hardlopen</td>
       <td></td>
     </tr>
   </tbody>
