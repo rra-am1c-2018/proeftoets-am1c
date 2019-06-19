@@ -21,6 +21,7 @@
                     <th scope="col">Tussenvoegsel</th>
                     <th scope="col">Achternaam</th>
                     <th scope="col">Hobby</th>
+                    <th scope="col">Avatar</th>
                 </tr>
              </thead>
         <tbody>
@@ -30,6 +31,7 @@
                 <td>-</td>
                 <td>Reimer</td>
                 <td>Gamen</td>
+                <td><img src="./Avatar's/SPQR.png" style="width: 100px; height: 100px;"></td>
 
   </tbody>
 </table>
