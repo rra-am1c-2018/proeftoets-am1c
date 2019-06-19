@@ -22,3 +22,5 @@
 
   echo $tekst->wattext;
 ?>
+
+<a href="dennis_oneandonlydennis.php">Klik hier om naar Dennis z'n pagina te gaan! </a>
