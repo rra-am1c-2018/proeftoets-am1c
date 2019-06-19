@@ -19,17 +19,17 @@
     <div class="row">
     <div class="col">voornaam</div>
     <div class="col">tussenvoegsel</div>
-    <div class="col">col</div>    
-    <div class="col">col</div>
-    <div class="col">col</div>
+    <div class="col">achternaam</div>    
+    <div class="col">hobby</div>
+    <div class="col">avatar</div>
     <div class="col">col</div>
   </div>
   <div class="row">
     <div class="col">Rijn</div>
     <div class="col">YEETMASTER</div>
-    <div class="col">col</div>    
-    <div class="col">col</div>
-    <div class="col">col</div>
+    <div class="col">Hoeben</div>    
+    <div class="col">yeeten</div>
+    <div class="col">ernie</div>
     <div class="col">col</div>
   </div>
 
