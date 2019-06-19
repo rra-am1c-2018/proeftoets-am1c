@@ -31,7 +31,7 @@
       <td> </td>
       <td>Schmidt</td>
       <td>Tekenen en Gamen</td>
-      <td><img src="./nibba's/Dkirby.PNG" class="img-fluid" alt="Responsive image"style="width: 20px; height: 20px;"></td>
+      <td><img src="./nibba's/Dkirby.PNG" class="img-fluid" alt="Responsive image"style="width: 40px; height: 40px;"></td>
     </tr>
   </tbody>
 </table>
