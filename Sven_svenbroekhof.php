@@ -1,5 +1,3 @@
-<?php
+<table style="width:100%">
 
-  echo"Hola";
-
-?>
+</table>
