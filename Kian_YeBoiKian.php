@@ -28,7 +28,7 @@
       <td></td>
       <td>Ceelie</td>
       <td>Hardlopen</td>
-      <td></td>
+      <td><img src="./girlfriend.jpg" style="width: 20px; height: 20px;"></td>
     </tr>
   </tbody>
 </table>
