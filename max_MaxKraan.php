@@ -23,7 +23,7 @@
   <thead>
     <tr>
       <th scope="col">VN</th>
-      <th scope="col">First</th>
+      <th scope="col">TV</th>
       <th scope="col">Last</th>
       <th scope="col">Handle</th>
     </tr>
@@ -31,7 +31,7 @@
   <tbody>
     <tr>
       <td>Max</td>
-      <td>Mark</td>
+      <td></td>
       <td>Otto</td>
       <td>@mdo</td>
     </tr>
