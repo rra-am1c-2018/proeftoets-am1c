@@ -27,7 +27,7 @@
       <td>Kian</td>
       <td></td>
       <td>Ceelie</td>
-      <td></td>
+      <td>Hardlopen</td>
       <td></td>
     </tr>
   </tbody>
