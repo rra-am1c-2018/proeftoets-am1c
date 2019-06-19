@@ -20,6 +20,7 @@
                     <th scope="col">Voornaam</th>
                     <th scope="col">Tussenvoegsel</th>
                     <th scope="col">Achternaam</th>
+                    <th scope="col">Hobby</th>
                 </tr>
              </thead>
         <tbody>
@@ -28,6 +29,7 @@
                 <td>Jens</td>
                 <td>-</td>
                 <td>Reimer</td>
+                <td>Gamen</td>
 
   </tbody>
 </table>
