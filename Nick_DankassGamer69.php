@@ -21,8 +21,8 @@
       <th scope="col">Voornaam</th>
       <th scope="col">Tussenvoegsel</th>
       <th scope="col">Achternaam</th>
-      <th scope="col"></th>
-      <th scope="col"></th>
+      <th scope="col">Hobby</th>
+      <th scope="col">Avatar</th>
     </tr>
   </thead>
   <tbody>
@@ -30,8 +30,8 @@
       <th scope="row">Nick</th>
       <td> </td>
       <td>Schmidt</td>
-      <td></td>
-      <td></td>
+      <td>Tekenen en Gamen</td>
+      <td><img src="./nibba's/Dkirby.PNG" class="img-fluid" alt="Responsive image"style="width: 40px; height: 40px;"></td>
     </tr>
   </tbody>
 </table>
