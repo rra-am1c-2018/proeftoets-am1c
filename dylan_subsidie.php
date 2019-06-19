@@ -16,18 +16,18 @@
               <tr>
                   <th>Voornaam</th>
                   <th>Tussenvoegsel</th>
-                  <th> </th>
-                  <th> </th>
-                  <th> </th>
+                  <th>Achternaam</th>
+                  <th>Hobby</th>
+                  <th>Avatar</th>
               </tr>
           </thead>
           <tbody>
               <tr>
                   <td scope="row">Dylan</td>
                   <td scope="row">Van</td>
-                  <td scope="row"> </td>
-                  <td scope="row"> </td>
-                  <td scope="row"> </td>
+                  <td scope="row">Schaik</td>
+                  <td scope="row">Ademen</td>
+                  <td scope="row"></td>
                   <td></td>
               </tr>
           </tbody>
