@@ -10,10 +10,10 @@
   </thead>
   <tbody>
     <tr>
-      <th scope="row"></th>
+      <th scope="row">Mats</th>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>Stalenhoef</td>
+      <td>Gaming</td>
       <td></td>
     </tr>
   </tbody>

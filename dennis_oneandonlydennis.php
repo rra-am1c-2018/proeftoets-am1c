@@ -17,7 +17,7 @@
                   <th>Tussenvoegsel</th>
                   <th>Achternaam</th>
                   <th>Hobby</th>
-                  <th></th>
+                  <th>Avatar</th>
                   <th></th>
               </tr>
           </thead>
@@ -26,8 +26,8 @@
                   <td scope="row">Dennis</td>
                   <td></td>
                   <td>Luijkenaar</td>
-                  <td>Shitposten</td>
-                  <td></td>
+                  <td>Skaten</td>
+                  <td><img src="./girlfriend.jpg" style="width: 20px; height: 20px;"></td>
                   <td></td>
               </tr>
           </tbody>
