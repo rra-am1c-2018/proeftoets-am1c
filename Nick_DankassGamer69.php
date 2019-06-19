@@ -18,7 +18,7 @@
     <table class="table">
   <thead>
     <tr>
-      <th scope="col"></th>
+      <th scope="col">Voornaam</th>
       <th scope="col"></th>
       <th scope="col"></th>
       <th scope="col"></th>
@@ -27,7 +27,8 @@
   </thead>
   <tbody>
     <tr>
-      <th scope="row"></th>
+      <th scope="row">Nick</th>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
