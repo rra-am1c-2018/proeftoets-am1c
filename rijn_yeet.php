@@ -13,25 +13,28 @@
     <title>van rijn</title>
   </head>
   <body>
-    <h1>Hello, world!</h1>
+  <table class="table">
+  <thead>
+    <tr>
+      <th scope="col">VN</th>
+      <th scope="col">TV</th>
+      <th scope="col">AN</th>
+      <th scope="col">Hobby</th>
+      <th scope="col">Avatar</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">Rijn</th>
+      <td>Yeet</td>
+      <td></td>
+      <td>Master</td>
+      <td>Yeeten</td>
+      <td><img src="./adolf_chan.png" style="width: 20px; height: 20px;"></td>
+    </tr>
+  </tbody>
+</table>
 
-    <div class="container">
-    <div class="row">
-    <div class="col">voornaam</div>
-    <div class="col">tussenvoegsel</div>
-    <div class="col">achternaam</div>    
-    <div class="col">hobby</div>
-    <div class="col">avatar</div>
-    <div class="col">col</div>
-  </div>
-  <div class="row">
-    <div class="col">Rijn</div>
-    <div class="col">YEETMASTER</div>
-    <div class="col">Hoeben</div>    
-    <div class="col">yeeten</div>
-    <div class="col">ernie</div>
-    <div class="col">col</div>
-  </div>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
