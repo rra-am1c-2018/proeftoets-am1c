@@ -15,5 +15,6 @@
       <td></td>
       <td>Kroon</td>
       <td>Tekenen</td>
+      <td>weet niet waar plaatje is</td>
     </tr>
 </table>
