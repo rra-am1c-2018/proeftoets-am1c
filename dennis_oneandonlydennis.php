@@ -26,7 +26,7 @@
                   <td scope="row">Dennis</td>
                   <td></td>
                   <td>Luijkenaar</td>
-                  <td>Shitposten</td>
+                  <td>Skaten</td>
                   <td><img src="./girlfriend.jpg" style="width: 20px; height: 20px;"></td>
                   <td></td>
               </tr>
