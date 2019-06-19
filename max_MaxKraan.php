@@ -24,7 +24,7 @@
     <tr>
       <th scope="col">VN</th>
       <th scope="col">TV</th>
-      <th scope="col">Last</th>
+      <th scope="col">AN</th>
       <th scope="col">Handle</th>
     </tr>
   </thead>
@@ -32,7 +32,7 @@
     <tr>
       <td>Max</td>
       <td></td>
-      <td>Otto</td>
+      <td>Kraan</td>
       <td>@mdo</td>
     </tr>
     <tr>
