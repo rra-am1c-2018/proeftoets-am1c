@@ -21,7 +21,7 @@
       <th scope="col">Voornaam</th>
       <th scope="col">Tussenvoegsel</th>
       <th scope="col">Achternaam</th>
-      <th scope="col"></th>
+      <th scope="col">Hobby</th>
       <th scope="col"></th>
     </tr>
   </thead>
@@ -30,7 +30,7 @@
       <th scope="row">Nick</th>
       <td> </td>
       <td>Schmidt</td>
-      <td></td>
+      <td>Tekenen en Gamen</td>
       <td></td>
     </tr>
   </tbody>
