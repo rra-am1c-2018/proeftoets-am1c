@@ -19,7 +19,7 @@
   <thead>
     <tr>
       <th scope="col">Voornaam</th>
-      <th scope="col"></th>
+      <th scope="col">Tussenvoegsel</th>
       <th scope="col"></th>
       <th scope="col"></th>
       <th scope="col"></th>
@@ -28,7 +28,7 @@
   <tbody>
     <tr>
       <th scope="row">Nick</th>
-      <td></td>
+      <td> </td>
       <td></td>
       <td></td>
       <td></td>
