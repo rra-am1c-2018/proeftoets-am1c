@@ -15,7 +15,7 @@
           <thead>
               <tr>
                   <th>Voornaam</th>
-                  <th> </th>
+                  <th>Tussenvoegsel</th>
                   <th> </th>
                   <th> </th>
                   <th> </th>
@@ -24,7 +24,7 @@
           <tbody>
               <tr>
                   <td scope="row">Dylan</td>
-                  <td scope="row"> </td>
+                  <td scope="row">Van</td>
                   <td scope="row"> </td>
                   <td scope="row"> </td>
                   <td scope="row"> </td>
