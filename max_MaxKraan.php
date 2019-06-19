@@ -17,7 +17,7 @@
     <title>Hello, world!</title>
   </head>
   <body>
-    <h1>Hello, world!</h1>
+    <h1>Max Kraan - Proeftoets</h1>
 
     <table class="table">
   <thead>
@@ -35,7 +35,7 @@
       <td></td>
       <td>Kraan</td>
       <td>Gamen</td>
-      <td><img src="./nibba/maxkraan.jpg"></td>
+      <td><img src="./nibba's/maxkraan.jpg" style="width: 200px; height: 200px;"></td>
     </tr>
     <tr>
   </tbody>
