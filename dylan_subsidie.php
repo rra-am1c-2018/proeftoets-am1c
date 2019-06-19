@@ -17,7 +17,7 @@
                   <th>Voornaam</th>
                   <th>Tussenvoegsel</th>
                   <th>Achternaam</th>
-                  <th> </th>
+                  <th>Hobby</th>
                   <th> </th>
               </tr>
           </thead>
@@ -26,7 +26,7 @@
                   <td scope="row">Dylan</td>
                   <td scope="row">Van</td>
                   <td scope="row">Schaik</td>
-                  <td scope="row"> </td>
+                  <td scope="row">Ademen</td>
                   <td scope="row"> </td>
                   <td></td>
               </tr>
