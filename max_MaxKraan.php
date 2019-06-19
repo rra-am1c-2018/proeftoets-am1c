@@ -17,7 +17,29 @@
     <title>Hello, world!</title>
   </head>
   <body>
-    <h1>Hello, world!</h1>
+    <h1>Max Kraan - Proeftoets</h1>
+
+    <table class="table">
+  <thead>
+    <tr>
+      <th scope="col">VN</th>
+      <th scope="col">TV</th>
+      <th scope="col">AN</th>
+      <th scope="col">Hobby</th>
+      <th scope="col">Avatar</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Max</td>
+      <td></td>
+      <td>Kraan</td>
+      <td>Gamen</td>
+      <td><img src="./nibba's/maxkraan.jpg" style="width: 100px; height: 100px;"></td>
+    </tr>
+    <tr>
+  </tbody>
+</table>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
