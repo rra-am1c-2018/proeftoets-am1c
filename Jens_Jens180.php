@@ -18,7 +18,7 @@
                 <tr>
                     <th scope="col">#</th>
                     <th scope="col">Voornaam</th>
-                    <th scope="col">Last</th>
+                    <th scope="col">Tussenvoegsel</th>
                     <th scope="col">Handle</th>
                 </tr>
              </thead>
@@ -26,7 +26,7 @@
             <tr>
             <th scope="row">1</th>
                 <td>Jens</td>
-                <td>Otto</td>
+                <td>-</td>
                 <td>@mdo</td>
 
   </tbody>
