@@ -12,7 +12,8 @@
     <tr>
       <th scope="row">1</th>
       <td>Kimberly</td>
-      <td>Otto</td>
-      <td>@mdo</td>
+      <td></td>
+      <td>Kroon</td>
+      <td>Tekenen</td>
     </tr>
 </table>
