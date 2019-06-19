@@ -6,14 +6,14 @@
     <th>vn</th>
     <th>tv</th>
     <th>an</th>
-    <th></th>
+    <th>hobby</th>
     <th></th>
   </tr>
   <tr>
     <td>melvin</td>
     <td></td>
     <td>gleis</td>
-    <td></td>
+    <td>gamen</td>
     <td></td>
   </tr>
 </table>

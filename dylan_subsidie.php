@@ -18,7 +18,7 @@
                   <th>Tussenvoegsel</th>
                   <th>Achternaam</th>
                   <th>Hobby</th>
-                  <th> </th>
+                  <th>Avatar</th>
               </tr>
           </thead>
           <tbody>
@@ -27,7 +27,7 @@
                   <td scope="row">Van</td>
                   <td scope="row">Schaik</td>
                   <td scope="row">Ademen</td>
-                  <td scope="row"> </td>
+                  <td scope="row"></td>
                   <td></td>
               </tr>
           </tbody>
