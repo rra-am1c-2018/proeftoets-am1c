@@ -18,7 +18,7 @@
     <div class="container">
     <div class="row">
     <div class="col">voornaam</div>
-    <div class="col">col</div>
+    <div class="col">tussenvoegsel</div>
     <div class="col">col</div>    
     <div class="col">col</div>
     <div class="col">col</div>
@@ -26,7 +26,7 @@
   </div>
   <div class="row">
     <div class="col">Rijn</div>
-    <div class="col">col</div>
+    <div class="col">YEETMASTER</div>
     <div class="col">col</div>    
     <div class="col">col</div>
     <div class="col">col</div>
