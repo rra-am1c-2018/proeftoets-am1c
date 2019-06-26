@@ -29,7 +29,7 @@
       <td>van der</td> <!--tv -->
       <td>lint</td> <!--an -->
       <td>Gamen</td>  <!--hobby -->
-      <td><img src="./Avatar's/paasei.jpg" style="width: 100px; height: 100px;"></td>  <!-- avatar -->
+      <td><img src="./nibba's/paasei.jpg" class="img-fluid" alt="Responsive image"style="width: 40px; height: 40px;"></td>
     </tr>
     <tr>
   </tbody>

@@ -32,3 +32,5 @@
 
 <a href="Nick_DankassGamer69.php">Klik hier om naar Nick z'n pagina te gaan! (ik heb definitief deze code niet van dennis of kian gejat) </a>
 >>>>>>> ea327e52d16592a19afa196dd4147d9999cb8ccd
+
+<a href="Isis_Paaseitje.php">Klik hier om naar Isis haar pagina te gaan! </a>
