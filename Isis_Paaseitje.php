@@ -30,6 +30,7 @@
       <td>lint</td> <!--an -->
       <td>Gamen</td>  <!--hobby -->
       <td><img src="./nibba's/paasei.jpg" class="img-fluid" alt="Responsive image"style="width: 40px; height: 40px;"></td>
+      <a href="../index.php"><button>index</button></a>
     </tr>
     <tr>
   </tbody>
