@@ -28,7 +28,7 @@
       <td>isis</td> <!--vn -->
       <td>van der</td> <!--tv -->
       <td>lint</td> <!--an -->
-      <td></td>  <!--hobby -->
+      <td>Gamen</td>  <!--hobby -->
       <td><img src="./Avatar's/.jpg" style="width: 100px; height: 100px;"></td>  <!-- avatar -->
     </tr>
     <tr>
