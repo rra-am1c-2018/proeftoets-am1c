@@ -26,10 +26,10 @@
   <tbody>
     <tr>
       <td>isis</td> <!--vn -->
-      <td></td> <!--tv -->
+      <td>van der</td> <!--tv -->
       <td></td> <!--an -->
       <td></td>  <!--hobby -->
-      <td><img src="./nibba's/.jpg" style="width: 100px; height: 100px;"></td>  <!-- avatar -->
+      <td><img src="./Avatar's/.jpg" style="width: 100px; height: 100px;"></td>  <!-- avatar -->
     </tr>
     <tr>
   </tbody>
